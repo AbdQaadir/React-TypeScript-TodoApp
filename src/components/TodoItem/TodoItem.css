@@ -1,0 +1,10 @@
+.todoItem {
+  padding: 10px;
+  width: 100%;
+  font-size: 18px;
+  letter-spacing: 3px;
+  color: #ffffff;
+  border-radius: 12px;
+  background: #3797a4;
+  margin: 10px 0;
+}
